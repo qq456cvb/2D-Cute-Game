@@ -1,0 +1,1 @@
+house,0house,grass,1grass,wall,2wall,2door

@@ -1,0 +1,3 @@
+Tiles,0Cake,0Castle,0Choco,0Dirt,0Grass,0Ice,0Lava,0Sand,0Snow,0Stone,0Tundra,0Water,Shrooms,1ShroomTan,1ShroomRed,1ShroomBrown,1Stem,1Tall,1Tiny,Town,2Door,2Window,2Fence,2Chimney,2Awning,2HouseBeige,2HouseDark,2HouseGray,2Roof,2Sign,Candy,3Candy,3Cane,3Cookie,3Cream,3Cup,3Gummy,3Lollipop,3Waffle,Other,4Bridge,4Box,4Bomb,4Flag,4Button,4Coin,4Plant,4Switch,4Rock,4Lock,4Torch,Christmas,5Tree,5Iglo,5SnowBall,5Spike
+
+//Note: If you want to return to the default editor values, just copy the line above into the "TagData.txt" file.
